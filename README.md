@@ -64,6 +64,3 @@ library-management-system/
 └── README.md
 ```
 
-## Source
-
-The code was formatted from the uploaded `PPC_MP_CODE (2).pdf`, which contains the Library Management System implementation across 6 pages.
